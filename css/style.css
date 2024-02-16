@@ -7,6 +7,11 @@ h1 {
     font-size: 60px;
 }
 
+h2 {
+    font-size: 32px;
+    padding-bottom: 30px;
+}
+
 h3 {
     color: #939393;
 
@@ -82,6 +87,13 @@ div ul li{
     padding-top: 80px;
 }
 
+.section_4 {
+    padding: 0px 350px;
+
+    display: flexbox;
+
+}
+
 .header_element {
     padding-right: 30px;
 }
@@ -96,6 +108,16 @@ div ul li{
 .section_picture{
     width: 50px;
     height: 50px;
+}
+
+.price {
+    font-size: 20px;
+}
+
+.price_x {
+    text-decoration-line: line-through;
+    font-size: 16px;
+    color: #A5A5A5;
 }
 #span_1 {
     color: orange;
@@ -113,6 +135,10 @@ div ul li{
     height: 350px;
 
     background-image: url(/picture/product_1.png);
+}
+
+.name {
+    font-size: 16px;
 }
 
 .section_2-card_2 {
