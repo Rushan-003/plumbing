@@ -161,3 +161,12 @@ div ul li{
 
     background-image: url(/picture/product_4.png);
 }
+
+.section_5 {
+    margin: 0px 350px;
+}
+
+.section_5-x {
+    display: flex;
+    justify-content: space-between;
+}
